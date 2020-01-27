@@ -22,6 +22,10 @@ the relations are separated by ; character.
 ## Execution
 This use regular java se for execute by main method, automatically takes all files in folder com/problems/files on the project's resource folder.
 
+Take in mind that you have to use all packacge name for excute the main class.
+
+The jdk used on this project is Jdk1.8.0 update 211
+
 ## Response
 
 there is an example of response with 2 files (listed as examples)
