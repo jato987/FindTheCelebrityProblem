@@ -46,4 +46,4 @@ note that a unique person exist if there is at less one relation with his name (
 
 ## Complexity
 
-before the application read the files, the estimate complex is O(n²) 
+After the application read the files, the estimate complex is O(n²) 
