@@ -20,24 +20,29 @@ the relations are separated by ; character.
 
 
 ## Execution
-This use regular java se for excute by main method, automatically takes all files in folder com/problems/files on the project's resource folder.
+This use regular java se for execute by main method, automatically takes all files in folder com/problems/files on the project's resource folder.
 
 ## Response
 
 there is an example of response with 2 files (listed as examples)
 
 > Results for file: problem2 -> 
+
 > Celebrity Found with name: Celebrity
+
 > ##################
+
 > Results for file: problem1 -> 
-> There is no person that have the requisities of the problem
+
+> There is no person that have the requisites of the problem
+
 > ##################
 
 1) First Result find a Celebrity named Celebrity that have the requisites of the problem, there is no relation with form Celebrity,[^,;] and exist relation with form [^,;],Celebrity for every case found in csv
 
-note that a unisque person exist if there is at less one relation with his name (definde as [^,;]) 
+note that a unique person exist if there is at less one relation with his name (definde as [^,;]) 
 
-2) for the second result the file give no relations that have a person with the requisities in the problem. 
+2) for the second result the file give no relations that have a person with the requisites in the problem. 
 
 ## Complexity
 
